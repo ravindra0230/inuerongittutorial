@@ -1,1 +1,2 @@
-## This is Git tutorials
+## This is Git tutorials By Krish
+## we will learn git
